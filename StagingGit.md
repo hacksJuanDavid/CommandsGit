@@ -13,7 +13,7 @@ git inites el comando que activa git en nuestro proyecto creando un espacio en m
 
 **Este comando se encargará de dos cosas**: primero, crear una carpeta .git, donde se guardará toda la base de datos con cambios atómicos de nuestro proyecto; segundo, crear un área que conocemos como staging, que guardará temporalmente nuestros archivos (cuando ejecutemos un comando especial para eso) y nos permitirá, más adelante, guardar estos cambios en el repositorio (también con un comando especial).
 
-![Staging!](/assets/images/staging.png)
+![Staging!](/assets/images/Staging.png)
 
 
 
