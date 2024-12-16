@@ -2,7 +2,7 @@
 
 Una rama o branch es una versión del código del proyecto sobre el que estás trabajando. Estas ramas ayudan a mantener el orden en el control de versiones y manipular el código de forma segura.
 
-En otras palabras, un branch o rama en Git es una rama que proviene de otra. Imagina un árbol, que tiene una rama gruesa, y otra más fina, en la rama más gruesa tenemos los commits principales y en la rama fina tenemos otros commits que pueden ser de hotfix, devlopment entre otros.
+En otras palabras, un branch o rama en Git es una rama que proviene de otra. Imagina un árbol, que tiene una rama gruesa, y otra más fina, en la rama más gruesa tenemos los commits principales y en la rama fina tenemos otros commits que pueden ser de **hotfix**, **devlopment entre otros**.
 
 ![Git!](/assets/images/Merge.png)ㅤ
 
@@ -26,7 +26,7 @@ Todos los commits se aplican sobre una rama. Por defecto, siempre empezamos en l
 
 ### Cómo crear un branch o rama en Git
 
-El comando git branch permite crear una rama nueva. Si quieres empezar a trabajar en una nueva función, puedes crear una rama nueva a partir de la rama master con git branch new_branch. Una vez creada, puedes usar **git checkout new_branch** para cambiar a esa rama.
+El comando git branch permite crear una rama nueva. Si quieres empezar a trabajar en una nueva función, puedes crear una rama nueva a partir de la rama master con **git branch new_branch**. Una vez creada, puedes usar **git checkout new_branch** para cambiar a esa rama.
 
 Recuerda que todas tus versiones salen de la rama principal o Master y de allí puedes tomar una versión específica para crear otra rama de versiones.
 
