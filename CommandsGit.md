@@ -29,3 +29,5 @@ Recuerda que puedes obtener el ID de tus commits con el comando **git log**.
 - **git config --list**: muestra la lista de configuración de git
 - **git config --list --show-origin**: rutas de acceso a la configuración de git
 - **git log archivo.extensión**: muestra la historia del archivo
+
+![Git!](/assets/images/Git.png)
